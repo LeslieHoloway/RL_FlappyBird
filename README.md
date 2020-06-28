@@ -12,7 +12,6 @@ Improvement: Fixed Q-Network
 
 - PyTorch 1.4.0
 - pygame 1.9.6
-- OpenCV-Python
 
 ## How to Run?
 
